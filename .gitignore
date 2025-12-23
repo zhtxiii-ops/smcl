@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Assets (too large for GitHub, download separately)
+1.20.1/assets.zip
+
+# Runtime generated
+1.20.1/natives-*/
+1.20.1/run/
