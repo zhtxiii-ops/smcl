@@ -42,7 +42,7 @@ smcl/
 
 **重要**: `assets.zip` 文件由于体积较大未包含在仓库中，请手动下载并解压：
 
-1. 从 [Release 页面](https://github.com/yinheli/smcl/releases) 下载 `assets.zip`
+1. 从 [Release 页面](https://github.com/zhtxiii-ops/smcl/releases) 下载 `assets.zip`
 2. 解压到 `1.20.1/` 目录：
    ```bash
    cd 1.20.1
